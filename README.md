@@ -1,4 +1,4 @@
-# 🤖 OSSDAO Github contrib Bot
+# 🤖 OSSDAO Github Bot
 
 OSSDAO.org
 
